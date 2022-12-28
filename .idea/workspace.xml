@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5624906-d732-4812-bf2b-c5f9885b7188" name="Changes" comment="09:46|28/12/2022">
-      <change afterPath="$PROJECT_DIR$/src/PQ10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PQ4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PQ5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PQ6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PQ7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PQ8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PQ9.java" afterDir="false" />
+    <list default="true" id="c5624906-d732-4812-bf2b-c5f9885b7188" name="Changes" comment="15:51|28/12/2022">
+      <change afterPath="$PROJECT_DIR$/src/PQ11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PQ12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vibhu/IdeaProjects/JavaProject/src&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/vibhu/IdeaProjects/JavaProject"
   }
-}</component>
-  <component name="RunManager" selected="Application.PQ10">
+}]]></component>
+  <component name="RunManager" selected="Application.PQ12">
     <configuration name="PQ10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PQ10" />
       <module name="PracticeQuestions" />
@@ -51,15 +45,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PQ6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PQ6" />
+    <configuration name="PQ11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PQ11" />
       <module name="PracticeQuestions" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PQ7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PQ7" />
+    <configuration name="PQ12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PQ12" />
       <module name="PracticeQuestions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PQ12" />
+        <item itemvalue="Application.PQ11" />
         <item itemvalue="Application.PQ10" />
         <item itemvalue="Application.PQ9" />
         <item itemvalue="Application.PQ8" />
-        <item itemvalue="Application.PQ7" />
-        <item itemvalue="Application.PQ6" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672201054723</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="15:51|28/12/2022">
+      <created>1672222962414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672222962414</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="09:46 28/12/2022" />
     <MESSAGE value="09:46|28/12/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="09:46|28/12/2022" />
+    <MESSAGE value="15:51|28/12/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="15:51|28/12/2022" />
   </component>
 </project>
